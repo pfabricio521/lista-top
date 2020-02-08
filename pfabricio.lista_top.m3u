@@ -1,0 +1,3585 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="/iptv-list.jpg" pltv-name="Iptv livê 24 horas" pltv-description="Lista IPTV" pltv-cover="/iptv-list.jpg" pltv-author="Samuel" pltv-email="ss4521588@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TVCATV",BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIOSO",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EVANGELICO",Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV ABERTA",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Globo News HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/885.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Globo News
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/256.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Globo - RJ HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/898.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Globo - RJ
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/139.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",FX HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/172.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Fox Sports 2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1006.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",HBO HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/177.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",HBO Plus HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/178.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Mais Globosat
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/270.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/271.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Prime *e HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1184.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Prime HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1189.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Up
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/274.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Up HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/188.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Multishow HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/183.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",National Geographic HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/185.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Nick Jr.
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/283.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Nick Jr. HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1167.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Nickelodeon
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/284.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere 2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/704.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere 4 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/191.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere 5
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/706.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere 7
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/707.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere Clubes
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/955.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere Clubes HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/954.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Prime Box Brazil
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/310.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Prime Box Brazil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1181.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Record
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/947.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Rede TV
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1192.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Rede TV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/539.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SBT
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/695.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SBT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/494.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Space
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1003.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SporTV
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1000.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SporTV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/199.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SporTV2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1001.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SporTV3 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/198.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Studio Universal HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/982.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TLC
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/998.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TLC HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/330.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TNT
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/903.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TNT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/206.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Tooncast
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/333.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Universal Channel
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/339.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Universal Channel HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/208.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",Globo - EPTV Camp HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/861.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",Globo - EPTV R Preto HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/701.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",Record
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/947.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",Rede TV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/539.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",SBT
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/695.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",SBT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/494.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/907.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO Family
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/261.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO 2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/175.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO 2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/908.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/177.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO Plus
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/262.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO Plus *e
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/263.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO Signature HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/179.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/271.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/875.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max Prime *e
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/273.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max Prime *e HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1184.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max Prime HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1189.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max Up HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/188.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Combate
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/909.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Combate HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/142.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/704.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 4
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/708.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 4 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/191.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 6
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/873.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 6 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/709.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 7 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/874.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere Clubes
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/955.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Telecine",Telecine Action
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/904.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Telecine",Telecine Fun HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/202.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Telecine",Telecine Premium
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/906.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Telecine",Telecine Touch
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/327.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Telecine",Telecine Touch HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/205.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Animal Planet
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/721.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Animal Planet HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Discovery World HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/161.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",H2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/174.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Nat Geo Wild
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/724.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Nat Geo Wild HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/184.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",The History Channel
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1163.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Band Sports
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/717.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Ei Maxx HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/163.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/890.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Brasil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/165.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Extra
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/865.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Fox Sports
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1005.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Fox Sports 2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/171.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",SporTV3
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1002.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Filmes",Prime Box Brazil
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/310.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Variedades",Fox Life HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/170.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AMC
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1032.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AMC HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1180.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Animal Planet HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Arte 1
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1029.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AXN
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/871.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",A&E HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/877.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Animal Planet
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/721.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Animal Planet HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",AXN HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/152.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Band Sports
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/717.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Band Sports HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/154.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",BIS
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/901.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",BIS HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/155.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Canal Novo Tempo
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/299.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Canal Sony
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1009.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Cartoon Network HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/914.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Combate
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/909.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Comedy Central
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/231.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Comedy Central HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/312.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Rede TV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/539.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SBT
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/695.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SBT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/494.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",Rede TV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/539.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",SBT
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/695.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Abertos / Cortesia",SBT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/494.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 2020
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11923
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",A&E
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/898
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",A&E HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4203
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",A&E [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4167
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",AMC
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5077
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",AMC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5076
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",AMC [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4644
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",AXN
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/893
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",AXN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/892
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",AXN HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4165
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Animal Planet
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/897
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Animal Planet HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/896
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Animal Planet Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5436
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Animal Planet [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4166
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Arte 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/894
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Arte 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5329
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Baby TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5078
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",BIS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/886
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",BIS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/885
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",BIS Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5447
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",BIS HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4162
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Band
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/887
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Band HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/891
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Band Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5475
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Band HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4164
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Band News
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/890
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Band News HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5162
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Band News Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5435
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Band News [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4163
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Band Sports
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/889
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Band Sports HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/888
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Band Sports [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1831
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Canal Brasil
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/883
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Religiosos",Canal Novo Tempo
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/786
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Boomerang
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/884
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Boomerang HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5327
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Boomerang Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5434
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Religiosos",Canção Nova
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/879
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Cartoon Network
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/878
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Cartoon Network HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/877
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Cartoon Network HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4159
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Cinemax
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/876
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Cinemax HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1495
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Cinemax HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5124
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Comedy Central
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/873
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Comedy Central HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5326
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Comedy Central HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1833
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Combate
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/875
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Combate HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/874
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Combate Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5474
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Combate HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1832
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA LIBERTADORES HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11444
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",DAZN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11443
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Curta!
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/872
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Curta! HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5325
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Home & Health
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/868
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Home & Health HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/867
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Home & Health Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5433
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Home & Health [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4156
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Civilization
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/869
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Civilization HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5324
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Civilization [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4157
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/871
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Channel HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/870
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Channel Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5448
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Channel HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1834
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Discovery Kids
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/866
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Discovery Kids HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1494
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Discovery kids Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5432
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Discovery Kids HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1835
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Science
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/865
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Science HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5075
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Science [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4154
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Theater
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5323
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Theater HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/864
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery Theater HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4153
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery World
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5322
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery World HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/861
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery World Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5430
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Discovery World [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4151
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/860
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney Channel HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1493
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney Channel Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5446
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney Channel HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4150
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney Junior
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/859
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney Junior HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5562
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney XD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/858
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Disney XD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4149
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Turbo
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/863
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Turbo HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/862
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Turbo Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5431
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Discovery Turbo HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4152
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",E!
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/857
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",E! HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4204
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",EI PLUS SD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11483
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",EI PLUS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11484
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4643
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/848
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5458
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1839
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN +  HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/851
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN + HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1837
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN Brasil
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/850
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN Brasil HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/849
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN Brasil Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5459
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN Brasil HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1838
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Espn Extra
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5321
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Espn Extra HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5320
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",ESPN Extra Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5457
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fish TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/846
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fish TV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5319
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Food Network
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/845
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Food Network HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1491
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Food Network [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4145
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/844
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/841
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Fox Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5473
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1842
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Fox Premium
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5318
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX Premium HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/843
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX Premium HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4144
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Fox Premium 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5317
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX Premium 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/842
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Fox Premium 2 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5429
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX Premium 2 HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4143
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Fox Life
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/840
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FOX Life HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/839
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fox Sports
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/837
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fox Sports HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/838
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fox Sports Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5418
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fox Sports HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1844
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fox Sports 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/836
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",FOX Sports 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/835
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Fox Sports 2 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5456
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",FOX Sports 2 HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1843
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Futura
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/834
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Futura HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5316
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/833
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FX HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/832
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",FX HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1845
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Gazeta HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/400
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Brasília
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/831
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Brasilia HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5315
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo TV Centro America
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5127
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo EPTV Campinas
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5130
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo EPTV Campinas HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5314
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo EPTV Sao Carlos
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5129
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Ribeirão Preto
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5312
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Ribeirão Preto HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5313
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - TV Bahia
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5071
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - TV Bahia HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5309
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Minas
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/830
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Minas HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5093
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Minas Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5472
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Globo News
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/826
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Globo News HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1498
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Globo News Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5442
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Globo News HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1846
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Nordeste
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5067
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Nordeste HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5073
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - RBS TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/764
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - RBS TV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5311
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo RJ
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/829
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo RJ HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/828
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo RJ Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5471
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Rede HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1847
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo NSC TV Florianopolis
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5421
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo NSC TV Florianopolis HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5420
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Curitiba
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5128
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Curitiba HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5310
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo RPC Curitiba Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5469
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo SP
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/827
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo SP HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5095
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo SP Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5470
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo SP HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5528
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Anhaguera Goiania
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5074
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Goias - TV Anhanguera HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5072
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo TV Tribuna Santos
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5126
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Vanguarda Sao Jose dos Campos
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5125
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5069
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5307
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5308
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - TV TEM Bauru
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/714
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - TV TEM Sorocaba
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/713
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Globo - TV Verdes Mares
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5068
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",+Globosat
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/804
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",+Globosat HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1488
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",+Globosat HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4135
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Gloob
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/825
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Gloob HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1490
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Gloob Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5441
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Gloob HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1848
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Gloobinho
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5306
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Gloobinho HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5305
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",GNT
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/824
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",GNT HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/823
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",GNT HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4142
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",H2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/822
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",H2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/821
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",H2 [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4141
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/820
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/816
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5467
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1850
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/810
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/819
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO 2 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5468
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO 2 HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1849
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Family
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/818
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Family HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/817
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Family HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4140
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Plus
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/815
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Plus HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/813
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Plus HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4139
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Plus *e
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/814
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Signature
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/812
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Signature HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/811
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",HBO Signature HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4138
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",History
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/726
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",History HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/809
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",History Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5424
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",History HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4137
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",ID
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/807
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",ID HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/806
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",ID HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4155
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",I-SAT
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/808
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Lifetime
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/805
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Lifetime HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1489
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Lifetime [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4136
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",MAX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/803
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",MAX HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1497
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",MAX Prime
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/802
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Sony
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/881
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Sony HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/880
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Sony HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4115
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",MAX Prime HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1487
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",MAX UP
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/800
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Max UP HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1486
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Maxup HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4134
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Max Prime *e
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/801
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",MegaPix
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/799
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Megapix HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/798
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Megapix HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1851
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",MTV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/797
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",MTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1485
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",MTV HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4133
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Multishow
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/796
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Multishow HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/795
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Multishow HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4131
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Music Box Brasil
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/794
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Music Box Brasil HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5304
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",NatGeo Wild
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/793
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",NatGeo Wild HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/702
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Nat Geo Wild Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5428
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Natgeo Kids
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5303
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Natgeo Kids HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5302
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",National Geographic
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/792
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",National Geographic HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/791
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",National Geographic [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4129
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",NBR
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/790
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",NHK
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/789
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nickelodeon
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/787
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nickelodeon HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1484
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nicklodeon Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5426
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nickelodeon HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4128
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nick Jr.
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/788
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nick Jr. HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5301
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Nick JR Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5427
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",OFF
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/785
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",OFF HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/784
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",OFF HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4125
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Paramount Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/783
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Paramount Channel HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/782
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Paramount HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4124
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/767
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/780
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5455
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes HD [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1852
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/779
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/778
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 2 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5454
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 2 [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1853
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/777
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/776
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 3 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5453
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 3 [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1854
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/775
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/774
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 4 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5452
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 4 [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1855
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 5
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/773
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 5 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/772
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 5 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5451
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 5 [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1856
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 6
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/771
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 6 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4123
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 6 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5450
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 6 [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5330
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 7
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/770
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 7 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4122
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 7 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5449
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 7 [ALTERNATIVO]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5331
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 8
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/769
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PFC 9
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/768
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Prime Box Brasil
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/766
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Prime Box Brasil HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5300
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Religiosos",RBI
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/765
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/761
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/763
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5466
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",Globo Internacional
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/604
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1857
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record BA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11072
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record BA HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11071
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record DF
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11069
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record DF HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11068
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record MG
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7565
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record MG HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7566
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record RJ
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7567
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record RJ HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7568
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record RS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11066
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record RS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11065
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record SP Interior
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5298
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Record SP Interior HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5333
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",Record Internacional
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/899
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Record News
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/762
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Rede Brasil
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/760
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",RedeTV!
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/759
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",RedeTV! HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/758
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",RedeTV! HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4119
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Religiosos",Rede Vida
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/757
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Religiosos",Rede Vida HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5653
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",SBT
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/756
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",SBT HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/755
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",SBT Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5465
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",SBT HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1858
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",SBT SP Interior
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5297
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Smithsonian Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11419
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Documentários",Smithsonian Channel HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11420
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",RTP Internacional
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/574
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",SIC Internacional
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/754
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Space
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/753
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Space HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/752
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Space HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4114
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/748
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/749
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Sportv Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5438
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1859
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/747
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/751
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Sportv 2 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5439
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV2 HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1860
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/745
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/750
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Sportv 3 Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5440
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",SporTV3 HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1861
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Studio Universal
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/743
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Studio Universal HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1480
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Studio Universal HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4113
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",SundanceTV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5296
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",SundanceTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5295
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Syfy
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/742
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Syfy HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1483
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",SyFy HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4111
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TBS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/741
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TBS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/740
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TBS [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4110
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TCM
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/734
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TCM HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4109
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",TCV INTERNACIONAL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/983
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Action
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/733
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Action HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/739
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Action Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5464
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Action HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1862
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Cult
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/732
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Cult HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1482
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Cult HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4108
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Fun
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/731
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Fun HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/738
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Fun Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5463
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Fun HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1863
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Pipoca
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/730
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Pipoca HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/737
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Pipoca Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5462
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Pipoca HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1864
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Premium
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/729
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Premium HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/736
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Premium Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5461
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Premium HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1865
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Touch
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/728
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Touch HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/735
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Touch Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5460
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Telecine Touch HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1866
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",Terra Viva
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/727
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TLC
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/725
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TLC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1481
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TLC HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1867
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Senado
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5294
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Justica
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5293
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TNT
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/724
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TNT HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/723
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TNT HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1868
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TNT Séries
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/722
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TNT Séries HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/721
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",TNT Series HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4107
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",PlayKids
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7563
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",PlayKids HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7564
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Tooncast
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/720
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",Tooncast HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4106
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TruTV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/719
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TruTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5291
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Religiosos",TV Aparecida
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/895
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TV Cultura
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5161
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",TV Cultura HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5656
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Brasil
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/717
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Câmara
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/602
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Diário Fortaleza
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11063
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV Aberta",TV Diário Fortaleza HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11062
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",TV Rá Tim Bum
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/715
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Infantil",TV Ra Tim Bum HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5292
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Universal Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/711
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Universal Channel HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/710
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Universal Channel HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4103
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",VH1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5290
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",VH1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1479
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",VH1 HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4101
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",VH1 Mega Hits
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/709
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Viva
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/708
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Viva HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/707
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Viva Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5437
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",Viva HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4100
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Warner Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/706
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Warner Channel HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/705
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Warner Full HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5425
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",Warner Channel HD [PLUS]
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/4099
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Woohoo
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/704
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Woohoo HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5657
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Anos 70
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/932
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Anos 80
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/931
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Anos 90
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/930
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Bossa Nova
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/929
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Eletrônica
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/928
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Festa
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/927
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Forró
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/926
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Gospel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/925
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Hip Hop
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/924
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Jazz
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/923
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Kids
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/922
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Lounge
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/921
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",MPB
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/920
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Pagode
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/919
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Pop Hits
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/918
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Rock Clássico
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/916
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Reggae
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/917
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Românticas
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/915
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Samba de Raiz
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/914
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Rádios",Sertanejo Universitário
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/913
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais 24 Horas",Pica Pau
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5114
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais 24 Horas",Pokemon Sun and Moon 1º Temporada 2018
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5275
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais 24 Horas",Dragon Ball Super
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5277
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais 24 Horas",A.I.C.O. Incarnation 2018
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5276
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais 24 Horas",Tom & Jerry
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5115
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)24 KITCHEN
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/987
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)A Bola TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/664
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)A&E
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/399
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AMC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/398
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AXN
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1011
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AXN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/396
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AXN BLACK
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1010
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AXN Black HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/397
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AXN WHITE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1009
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)AXN White HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/395
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)BABY FIRST
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/996
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Baby TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1046
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)BENFICA TV 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1019
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)BENFICA TV 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1018
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)BIGGS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/998
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Caça e Pesca
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/392
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Cartoon Network
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1047
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",MTV Live
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5654
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Variedades",MTV Live HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5655
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)CMTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1027
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)CANAL PANDA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1001
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)CANAL Q
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/991
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)CANÇÃO NOVA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/981
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)CINEMUNDO HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/391
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",A Fazenda 11
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/984
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)CAÇAVISION
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/989
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Discovery Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/390
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)DISNEY CHANNEL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1002
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)DISNEY JUNIOR
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1000
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Discovery Showcase
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1048
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)DOG TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/986
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)E! ENTERTAINMENT
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/988
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5676
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5675
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5674
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5673
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7575
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5672
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7574
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7573
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 5
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7572
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 5 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7571
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 6
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7570
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT) Eleven Sports 6 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/7569
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)EuroSport
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/420
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)EuroSport 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/388
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)EuroNews
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/648
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)EUROSPORT 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1013
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Food Network
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1049
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Fuel TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/383
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)GLOBO PORTUGAL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/355
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",(PT)Globo Premium
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1518
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)HISTÓRIA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1003
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Hollywood
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/382
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Hollywood HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1050
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)JIMJAM
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/997
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Kombat Sport
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1051
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)LOCALVISION
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/980
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)MCM POP
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/995
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)MOTORS TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1012
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)MTV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/994
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)MOTORSVISION HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/381
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)National Geographic Channel
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/380
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)NATIONAL GEOGRAPHIC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1005
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)NATIONAL GEOGRAPHIC WILD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1004
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Odisseia
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/377
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)PFC
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/992
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)PORTO CANAL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1015
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)PORTO CANAL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1014
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)REGIÕES TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/982
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/375
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/374
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/373
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP Açores
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/372
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP África
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/371
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP Madeira
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/370
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RTP Memória
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/369
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)RECORD NEWS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/993
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SIC NOTICIAS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1032
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1020
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1026
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT.TV 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/367
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV 1 FULL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1025
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1024
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT.TV 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/366
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1023
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT.TV 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/365
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1022
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT.TV 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/364
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT TV 5
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1021
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT.TV 5 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/363
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORT.TV Mais HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/362
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SIC CARAS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1030
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SIC MULHER
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1031
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SIC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1033
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SIC K
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/999
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SIC Radical
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/662
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)Sporting TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/368
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SPORTING TV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1016
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SyFy
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/361
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)SYFY HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1006
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TLC
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/985
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Internacional",TPA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/979
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVC 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/353
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVCINE 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/359
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVC 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/352
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVC 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/351
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVC 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/350
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVI 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/650
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TV Record HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/676
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVSéries
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/348
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVSéries HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/354
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVI 24
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/649
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVI FICÇÃO
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1029
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TVI REALITY
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1028
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)TOROS TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/990
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)VH1 Classic
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/347
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/385
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX Comedy HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/387
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX Crime
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/386
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX CRIME HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1008
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX Life
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/23
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX LIFE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/1007
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Portugal",(PT)FOX Movies
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/384
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: A&E HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5846
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ABC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5862
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: AL JAZEERA ENGLISH
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5837
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: AMC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5863
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: BBC AMERICA HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5855
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: BLOOMBERG
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5836
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: BRAVO HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5861
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: C-SPAN 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5832
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: C-SPAN 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5831
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: C-SPAN 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5830
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: CARTOON NETWORK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5834
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: CBS SPORTS NETWORK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5815
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: CNN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5857
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: COZI HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5852
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: DISCOVERY CHANNEL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5845
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: DISNEY CHANNEL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5835
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESCAPE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5839
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESPN 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5829
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESPN 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5828
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESPN GOAL LINE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5825
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESPN NEWS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5826
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESPN U HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5827
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ESTRELLA TV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5842
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: FOX 29 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5856
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: FOX DEPORTES HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5820
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: FOX NEWS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5858
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: FOX SPORTS 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5819
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: FX HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5854
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: FXX HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5853
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: GALAVISION HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5864
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: HALLMARK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5841
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: HALLMARK MOVIES HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5840
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: HISTORY CHANNEL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5844
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: HSN 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5809
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: HSN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5810
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: ION LIFE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5803
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: JUSTICE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5806
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: LAFF
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5805
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: MLB NETWORK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5824
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: MSNBC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5860
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: MTV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5807
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NATIONAL GEOGRAPHIC CHANNEL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5843
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NBA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5813
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NBC 6 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5859
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NFL NETWORK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5822
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NFL RED ZONE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5823
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NHL NETWORK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5821
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: NICKELODEAN HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5833
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: OXYGEN
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5851
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: PAC-12
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5811
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: SCIENCE CHANNEL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5804
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: SPORTSMAN CHANNEL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5816
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: SYFY HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5850
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: TBS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5838
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: TELEMUNDO HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5865
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: TELEXISTOS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5849
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: THE GOLF CHANNEL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5814
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: TLC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5848
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: TRAVEL HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5847
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: UNIMÁS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5866
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: USA NETWORK HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5812
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Estados Unidos",USA: VH1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5808
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: ABC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5694
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: BBC WORLD NEWS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5696
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: BOUNCE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5689
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CBC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5701
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CBC NEWS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5700
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CBC VANCOUVER
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5699
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CBS WEST
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5698
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CHCH HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5712
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CITYTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5709
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CNBC
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5697
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CP24
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5714
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CTV 2 VANCOUVER
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5702
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CTV HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5704
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CTV VANCOUVER
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5703
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: CW23 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5688
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: FOX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5695
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: FOX WEST
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5693
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: FX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5692
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: FXX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5691
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: GLOBAL TORONTO HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5706
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: GLOBAL VANCOUVER
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5705
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: HBO
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5690
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: NBC HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5686
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: OMNI 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5711
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: OMNI 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5710
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: PBS KIDS HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5687
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: SPORTSNET 360 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5680
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: SPORTSNET ONE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5679
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: SPORTSNET WEST HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5678
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: SPORTSNET WORLD HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5677
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TELE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5707
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TSN 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5685
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TSN 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5684
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TSN 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5683
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TSN 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5682
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TSN 5 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5681
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: TVO HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5708
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canada",CA: WEATHER NETWORK
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5713
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: 24 HORAS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5722
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: ANTENA 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5725
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: AXN
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5719
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: CANAL SUR
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5715
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: CLAN TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5724
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: CUATRO
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5728
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: DISCOVERY CHANNEL
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5718
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: DISNEY
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5716
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: FDF MEDIASET TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5723
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: HIST?RIA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5717
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: LA 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5730
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: LA 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5729
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: LA SEXTA
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5726
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: MotoGP
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/603
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: Real Madrid TV
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/45
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: TELECINCO
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5727
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: TELEDEPORTE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5721
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Espanha",ES: TNT
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5720
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: 6TER
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5755
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: AB MOTEURS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5753
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: AB1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5754
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: ARTE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5752
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: CANAL 8
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5748
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: CINE FX
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5751
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: CINE POLAR
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5750
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: CSTAR
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5749
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: FRANCE O
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5743
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: FRANCE 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5747
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: FRANCE 24
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5742
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: FRANCE 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5746
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: FRANCE 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5745
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: FRANCE 5
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5744
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: L EQUIPE 21
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5740
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: M6
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5739
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: NRJ12
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5738
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: NT1 (TFX)
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5737
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: RTL9
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5736
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: TF1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5735
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: TF1 SERIES FILMS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5741
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: TMC
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5734
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: TV5 MONDE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5732
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="França",FR: W9
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5733
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: 20 MEDIASET HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5761
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: CANALE 5 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5760
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: ITALIA 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5759
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RAI 1
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5766
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RAI 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5765
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RAI 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5764
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RAI 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5763
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RAI MOVIE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5757
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RAI NEWS 24
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5762
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",IT: RETE 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5756
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5802
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5801
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5800
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5799
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC CBEBBIES
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5795
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC CHANNEL ISLANDS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5797
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC NEWS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5798
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BBC WORLD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5796
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BOX HITS
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5794
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: BOX NATION
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5793
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: CHANNEL 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5788
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: ITV 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5784
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: ITV 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5783
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: ITV 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5782
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Reino Unido",UK: ITV 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/5781
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 2020 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11924
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 1 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11925
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11926
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11927
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 1 *
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11928
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 3 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11929
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 3
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11930
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 4 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11931
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 4
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11932
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 5 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11933
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 5
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11934
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 6 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11935
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 6
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11936
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 10
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11937
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 10 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11938
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 9
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11939
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 9 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11940
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 8
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11941
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Filmes e Séries",BBB 20 CAM 8 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11942
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA DO NORDESTE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11967
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA DO NORDESTE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11968
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA DO NORDESTE 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11969
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA DO NORDESTE 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11970
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA CATARINENSE
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11971
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA CATARINENSE HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11972
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA CATARINENSE 2
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11973
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPECIAL / ESPORTES",COPA CATARINENSE 2 HD
+http://a.srvbr.me:8880/JpeQDe4IaL/hnfgdhrteyfhdhs/11974
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Exterminador do Futuro: Destino Sombrio
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11966.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Bons Meninos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11965.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Quem com Ferro Fere
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11964.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Inimigos Íntimos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11963.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Charlie Chaplin Tempos Modernos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11962.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Charlie Chaplin - O Garoto
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11961.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Charlie Chaplin O Circo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11960.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Charlie Chaplin Luzes da Cidade
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11959.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Charlie Chaplin Em Busca do Ouro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11958.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Um Amor de Mãe
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11957.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Romance e Chocolate
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11956.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Invasão ao Serviço Secreto
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11955.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Tropa Zero
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11954.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Salyut 7: Missão Espacial
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11953.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Missão de Honra
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11952.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Meu Bebê
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11951.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",London Fields: Romance Fatal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11950.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Downton Abbey - O Filme
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11949.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Brooklyn - Sem Pai Nem Mãe
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11948.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Agente Asher
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11947.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Abigail e a Cidade Proibida
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11946.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Irmandade
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11945.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Doutor Sono
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11944.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Arte da Autodefesa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11943.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Zumbilândia: Atire Duas Vezes
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11922.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Projeto Gemini
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11921.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Herdeiro das Drogas
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11920.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Midsommar: O Mal Não Espera a Noite
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11919.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Malévola: Dona do Mal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11918.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Dora e a Cidade Perdida
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11917.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Dois Papas
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11916.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Star Trek: Sem Fronteiras
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11915.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Veloz Como o Vento
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11914.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Poderes Extraordinários
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11913.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Os Assassinatos de Amityville
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11912.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Minha Irmã de Paris
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11911.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Justiça Sem Fronteiras
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11910.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Gato Sórdido
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11909.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Anjo Meu
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11908.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Namorada do Meu Irmão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11907.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Casamento Sangrento
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11906.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Finalmente Livres
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11905.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Abandonado no Altar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11904.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Abominável
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11903.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Sobreviva a Noite
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11902.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Jeremiah Terminator LeRoy
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11901.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Esquadrão 6
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11900.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Depois da Escuridão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11899.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Coringa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11898.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Code 8: Renegados
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11897.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Ad Astra - Rumo às Estrelas
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11896.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Spider in the Web
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11895.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Rambo: Até o Fim
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11894.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Ventos da Liberdade
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11893.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Era Uma Vez em... Hollywood
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11892.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",American Son
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11891.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Sem Dormir Até o Natal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11890.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Segredo da Caveira: Um Mistério de Aurora Teagarden
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11887.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",P.S. Eu Te Amo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11889.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Natal de Dennis o Pimentinha
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11888.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Natal Fora de Casa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11886.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Velozes e Furiosos: Hobbs & Shaw
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11884.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",It - Capítulo Dois
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11882.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Um Passado de Presente
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11883.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Histórias Assustadoras para Contar no Escuro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11881.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Uma Mulher em Guerra
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11880.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Uma Guerra Pessoal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11879.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Névoa em Agosto
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11878.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Meu Amigo Enzo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11877.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Anna - O Perigo Tem Nome
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11876.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Angry Birds 2: O Filme
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11875.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Arqueira
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11874.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Stuber
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11873.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Pequena Travessa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11866.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Brinquedo Assassino 2019
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11867.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Cascavel
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11868.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Kings: Los Angeles em Chamas
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11869.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Limbo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11870.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Americano - O Filme
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11871.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Marvel Vs Capcom Infinite
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11872.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Maldição dos Esquecidos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11852.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",As Trapaceiras
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11853.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Eli
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11854.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Na Teia da Conspiração
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11855.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Perseguido Pelo Destino
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11856.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",The Kitchen
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11857.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Rei Leão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11849.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",El Camino A Breaking Bad
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11845.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Scooby-Doo De Volta a Ilha dos Zumbis
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11850.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",55 Passos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11843.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",As Hereges
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11844.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Fratura
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11846.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Influência
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11847.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Jovens Mulheres
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11848.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Stan & Ollie O Gordo e o Magro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11851.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Steven Universo O Filme
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11842.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Predadores Assassinos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11841.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Você Nunca Esteve Realmente Aqui
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11840.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Homem-Aranha Longe de Casa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11839.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Fora de Série
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11838.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Morte e o Retorno do Superman
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11833.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Annabelle 3 De Volta Para Casa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11834.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Ecos na Escuridão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11835.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Pets A Vida Secreta dos Bichos 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11836.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Toy Story 4
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11837.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",MIB: Homens de Preto - Internacional
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11824.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Amor em Obras
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11819.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Obsessão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11825.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Os Animais Somos Nós
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11820.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Mata Negra
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11816.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Moça da Limpeza
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11818.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Carandiru
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11813.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Juntos Para Sempre 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11823.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Quarto do Pânico
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11815.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Velhos Tempos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11821.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",X-Men: Fênix Negra
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11770.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",A Lenda de Golem
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11775.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Atentado ao Hotel Taj Mahal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11777.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Desce?
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11771.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Em Busca da Cerveja Perfeita
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11772.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Ma
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11778.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",My Hero Academia: 2 Heróis - O Filme
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11779.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Não Vai Ter Golpe
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11780.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Internato
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11768.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Retorno do Herói
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11773.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O Segredo de Nora
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11774.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",O renascimento da Múmia
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11769.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",John Wick - De Volta ao Jogo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/5649.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",John Wick: Um Novo Dia Para Matar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/1380.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",John Wick 3: Parabellum
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11761.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Aladdin
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11756.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",3 Pedidos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11754.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Turma da Mônica: Laços
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11763.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Acusada
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11750.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Homens do diabo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11764.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",Cães Estelares
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11752.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Carga Explosiva
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11759.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Carga Explosiva 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11758.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Carga Explosiva 3
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11760.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Carga Explosiva: O Legado
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11757.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Compartilhar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11753.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Crimes Obscuros
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11766.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Kardec: A História por Trás do Nome
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11762.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",O Pregador Sinistro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11749.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Hellboy
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/5367.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Hellboy II: O Exército Dourado
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/5366.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Hellboy 2019
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11744.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Godzilla
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11730.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Godzilla II: Rei dos Monstros
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11743.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NOVIDADES",Rocketman
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11745.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",O Genro Da Minha Vida
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11732.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Lar Ideal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11731.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",A Esposa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11734.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",A Pé Ele Não Vai Longe
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11736.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",o Golfinho
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11727.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Estranha Presença
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11737.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Minha Casa Rosa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11738.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",Permissão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11747.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",Por Amor ou Por Dinheiro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11739.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Separação e Reencontro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11740.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Só uma Brincadeira
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11729.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Terra Fria
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11733.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Uma Razão para Vencer
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11741.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",A Maldição de Sharon Tate
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11716.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Anos 90
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11724.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Brightburn - Filho das Trevas
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11726.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Culpa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11718.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Darken – O Universo Paralelo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11719.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",Descendentes
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11713.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",Descendentes 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11712.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",Descendentes 3
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11720.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",LEGO DC: Batman - Assuntos de Família
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11721.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",Sem Dormir Até o Natal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11715.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Tudo o que Tivemos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11722.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",Uglydolls
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11723.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Lutando Pela Família
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11703.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Tolkien
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11710.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Ilha Vermelha
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11702.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Clube dos Meninos Bilionários
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11708.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",A Menina e o Leão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11698.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",A Princesa Encantada - O Reino da Música
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11700.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",As Brumas de Avalon
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11701.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",Com Quem Será?
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11707.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Anjo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11704.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",RedBad: A Invasão dos Francos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11709.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",Sob o Sol da Toscana
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11705.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="SUPER-HERÓIS",Vingadores Ultimato
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11660.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",A-X-L: O Cão Robô
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11650.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",Batman: Silêncio
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11653.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Invasão a Casa Branca
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11656.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Invasão a Londres
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11654.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Missão no Mar Vermelho
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11657.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",Pachamama
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11658.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / GUERRA",Pássaros Amarelos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11659.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",Pokémon: Detetive Pikachu
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11641.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",A Carga
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11635.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",A Liga Extraordinária
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11625.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Arizona
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11631.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Cortina de Fogo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11639.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Cortina de Fogo 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11610.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Brincadeira Mortal
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11637.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",Casal Improvável
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11638.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Força Para Lutar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11626.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Gloria Bell
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11640.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",Jumanji
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11628.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Aqui se Paga
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11629.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",O Outro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11630.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Privacidade Hackeada
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11633.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Um Ladrão com Estilo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11634.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",A Espiã Vermelha
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11596.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",A Maldição da Chorona
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11608.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Entre Mundos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11612.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Superação: O Milagre da Fé
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11616.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",O Homem que Matou Don Quixote
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11614.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",À Queima-Roupa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11605.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",De Pernas pro Ar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11599.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",De Pernas pro Ar 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11598.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",De Pernas Pro Ar 3
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11611.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Navio Fantasma
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11600.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Nos Caminhos de Deus
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11613.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Obsessão Secreta
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11607.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Onde Está a Vovó?
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11601.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Operação Supletivo: Agora Vai!
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11602.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",Por Água Abaixo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11603.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Rastros do Além
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11615.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / SUSPENSE",Um Lugar Sombrio
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11604.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",A Vigilante
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11592.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ROMANCE",After
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11578.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Alita: Anjo de Combate
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11594.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",Central do Brasil
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11580.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Cucuy: O Bicho-Papão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11582.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",De Volta para o Futuro
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11583.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",De Volta para o Futuro 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11584.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",De Volta para o Futuro 3
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11585.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Icebox
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11586.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Nós
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11595.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",O Auto da Compadecida
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11587.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Homem que Mudou o Jogo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11588.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Vôo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11589.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Sniper Americano
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11590.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Stuck
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11591.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",A Inventora: À Procura de Sangue no Vale do Silício
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11571.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Cemitério Maldito 2019
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11576.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Pequeno Órfão
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11572.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Rapto
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11573.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",School Dance - Desventuras Escolares
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11568.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Shazam!
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11577.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",O Mais Procurado
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11574.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",A Casa Assombrada
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11552.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Bem-vindos a Marwen
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11556.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FAROESTE",Deadwood - O Filme
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11558.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Desculpe Te Incomodar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11559.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AVENTURA",Dumbo
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11563.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Nas Trevas
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11554.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Nureyev
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11560.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Gênio e o Louco
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11564.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",S.O.S.: Mulheres ao Mar
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11565.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / NACIONAL",S.O.S.: Mulheres ao Mar 2
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11566.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Saída Proibida
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11561.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Sem Amor
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11555.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",A Identidade Bourne
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11502.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",A Supremacia Bourne
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11503.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",O Ultimato Bourne
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11506.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",O Legado Bourne
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11505.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / AÇÃO",Jason Bourne
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11504.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",A Sereia - Lago Dos Mortos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11512.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / COMÉDIA",Alma da Festa
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11513.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / FICÇÃO",Cópias: De Volta à Vida
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11515.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / TERROR",Maligno
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11516.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / ANIMAÇÃO",O Parque dos Sonhos
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11508.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",O Retorno de Ben
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11510.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="OND / DRAMA",Sobibor
+http://a.srvbr.me:8880/movie/JpeQDe4IaL/hnfgdhrteyfhdhs/11517.mkv
